@@ -1,6 +1,8 @@
-# Compiled class file
-*.class
-
+console.log("Sawubona")
+let name= "Junior";
+let location= "Soweto;
+console.log(name)
+console.log(location)
 # Log file
 *.log
 
